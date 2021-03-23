@@ -1,5 +1,11 @@
 # Clean Code 2021
 
+## Członkowie zespołu:
+- Aleksander Drajling
+- Dawid Jakubik
+- Piotr Rudak
+- Mateusz Sipiński
+
 **Zadanie 1:** Clean Code
 
 Klasa `pl.zzpj2021.cleancode.doIt` nie przestrzega zasad Clean Code. Przerefaktoruj kod zgodnie z zasadami poznanymi podczas wykładu.
